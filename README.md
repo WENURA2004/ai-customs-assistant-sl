@@ -1,24 +1,38 @@
-# ai-customs-assistant-sl
-AI-powered customs assistant for Sri Lankan importers and exporters
+
 # AI Customs Assistant (Sri Lanka)
 
-## Overview
-This project is a web-based Logistics and Customs Assistant designed to help Sri Lankan importers, exporters, and students understand HS Codes, customs documents, duty calculations, and import/export procedures.
+## 🚀 Project Overview
+AI-powered Logistics & Customs Assistant designed for Sri Lankan importers, exporters, and logistics students.
 
-## Features
-- HS Code Finder
-- Duty & Tax Calculator
-- Document Generator
-- Logistics Dashboard
-- AI Chat Assistant (Simulation)
+This system helps users find HS Codes, calculate import duties, generate document checklists, and simulate AI-based customs guidance.
 
-## Technologies Used
+---
+
+## ✨ Features
+- HS Code Finder (Product Search System)
+- Duty & Tax Calculator (CIF-based)
+- Document Generator (Import/Export)
+- Logistics Dashboard (Search Analytics)
+- AI Chat Assistant (Rule-based Simulation)
+
+---
+
+## 🛠️ Technologies Used
 - HTML
 - CSS
 - JavaScript
 
-## Purpose
-To simplify customs and logistics processes in Sri Lanka using a digital assistant system.
+---
 
-## Author
+## 🎯 Purpose
+To simplify customs procedures and improve logistics knowledge using a digital web-based assistant.
+
+---
+
+## 👨‍💻 Developer
 Wenura Sandeepa
+
+---
+
+## 📌 Status
+Project Completed (Student Level Prototype)
