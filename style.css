@@ -1,0 +1,69 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background: #f5f7fb;
+}
+
+header {
+    background: linear-gradient(90deg, #0a3d62, #1e5f74);
+    color: white;
+    padding: 25px;
+    text-align: center;
+}
+
+nav {
+    background: #1e5f74;
+    padding: 12px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    margin: 12px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #ffd32a;
+}
+
+section {
+    padding: 20px;
+}
+
+input, button {
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+button {
+    background: #0a3d62;
+    color: white;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #1e5f74;
+}
+
+.card {
+    background: white;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 0px 2px 10px rgba(0,0,0,0.1);
+}
+
+.hero {
+    text-align: center;
+    padding: 40px;
+    background: white;
+}
+
+#result, #docResult, #chatResult {
+    margin-top: 20px;
+    font-size: 18px;
+}

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Duty Calculator</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+    <h1>Duty & Import Cost Calculator</h1>
+</header>
+
+<nav>
+    <a href="index.html">Home</a>
+    <a href="search.html">HS Code Finder</a>
+    <a href="calculator.html">Duty Calculator</a>
+    <a href="documents.html">Documents</a>
+</nav>
+
+<section style="text-align:center; padding:20px;">
+
+    <input type="number" id="value" placeholder="Product Value ($)">
+    <input type="number" id="freight" placeholder="Freight Cost ($)">
+    <input type="number" id="insurance" placeholder="Insurance ($)">
+
+    <button onclick="calculate()">Calculate</button>
+
+    <h2 id="output"></h2>
+
+</section>
+
+<script src="js/script.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Laptop",
+    "hs_code": "8471.30",
+    "category": "Electronics"
+  },
+  {
+    "name": "Mobile Phone",
+    "hs_code": "8517.13",
+    "category": "Electronics"
+  },
+  {
+    "name": "Printer",
+    "hs_code": "8443.32",
+    "category": "Electronics"
+  }
+]
